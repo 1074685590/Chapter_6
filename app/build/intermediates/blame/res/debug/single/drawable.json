@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bitmap_drawable.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\bitmap_drawable.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_drawable_gradient_radius.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\shape_drawable_gradient_radius.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_drawable.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\layer_drawable.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_drawable_size_padding.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\shape_drawable_size_padding.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_drawable.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\shape_drawable.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_drawable_gradient_linear.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\shape_drawable_gradient_linear.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale_drawable.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\scale_drawable.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inset_drawable.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\inset_drawable.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_drawable.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\transition_drawable.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clip_drawable.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\clip_drawable.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bitmap_drawable_clamp.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\bitmap_drawable_clamp.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_drawable_gradient_sweep.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\shape_drawable_gradient_sweep.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bitmap_drawable_mirror.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\bitmap_drawable_mirror.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_drawable_stroke.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\src\\main\\res\\drawable\\shape_drawable_stroke.xml"
+    },
+    {
+        "merged": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\androidworkspace\\AndroidArt\\Chapter_6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    }
+]
